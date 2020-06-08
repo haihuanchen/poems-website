@@ -1,1 +1,3 @@
-testing out functions of GitHub and writing poems on GitHub
+test out github functions with a poem (git add, git commit, git push, git remote, manipulate github pages and branches)
+
+Host website through GitHub
